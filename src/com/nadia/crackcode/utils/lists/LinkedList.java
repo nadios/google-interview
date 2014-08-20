@@ -10,20 +10,27 @@ public class LinkedList {
         return start;
     }
 
+    public void setStart(LinkedNode start) {
+        this.start = start;
+    }
+
     public LinkedList() {
 
         this.start = null;
     }
 
-    public void append(int value) {
+    public LinkedNode append(int value) {
+        LinkedNode newNode = new LinkedNode(value);
         if (this.start == null) {
-            this.start = new LinkedNode(value);
+            this.start = newNode;
+            return this.start;
         } else {
             LinkedNode node = this.start;
             while (node.getNext() != null) {
                 node = node.getNext();
             }
-            node.setNext(new LinkedNode(value));
+            node.setNext(newNode);
+            return newNode;
         }
     }
 
