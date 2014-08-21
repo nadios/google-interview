@@ -55,4 +55,17 @@ public class LinkedList {
         sb.append(node.getValue());
         return sb.toString();
     }
+
+    public void printLoop() {
+        LinkedNode node = this.start;
+        int loops = 0;
+        while (node.getNext() != null && loops < 15) {
+            System.out.print(node.getValue());
+            System.out.print(", ");
+            node = node.getNext();
+            loops++;
+        }
+        System.out.print(node.getValue());
+        System.out.println("...");
+    }
 }
