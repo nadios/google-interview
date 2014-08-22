@@ -62,4 +62,21 @@ public class TreeNode {
         TreeNode vertexI = new TreeNode("I", vertexD, vertexM);
         return vertexI;
     }
+
+    //         I
+    //      /     \
+    //     D       M
+    //    / \
+    //   A   F
+    //    \
+    //     N
+    public static TreeNode generateTree1() {
+        TreeNode vertexN = new TreeNode("N", null, null);
+        TreeNode vertexA = new TreeNode("A", null, vertexN);
+        TreeNode vertexF = new TreeNode("F", null, null);
+        TreeNode vertexD = new TreeNode("D", vertexA, vertexF);
+        TreeNode vertexM = new TreeNode("M", null, null);
+        TreeNode vertexI = new TreeNode("I", vertexD, vertexM);
+        return vertexI;
+    }
 }
