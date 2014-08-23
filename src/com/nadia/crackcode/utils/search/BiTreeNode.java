@@ -11,18 +11,25 @@ public class BiTreeNode {
     BiTreeNode left;
     BiTreeNode right;
     BiTreeNode parent;
+    Integer value;
 
     public BiTreeNode(String name, BiTreeNode left, BiTreeNode right) {
         this.name = name;
         this.left = left;
         this.right = right;
         this.parent = null;
+        this.value = 0;
         if (this.left != null) {
             this.left.setParent(this);
         }
         if (this.right != null) {
             this.right.setParent(this);
         }
+    }
+
+    public BiTreeNode(Integer value, String name, BiTreeNode left, BiTreeNode right) {
+        this(name,left,right);
+        this.value = value;
     }
 
     public String getName() {
@@ -59,9 +66,17 @@ public class BiTreeNode {
         this.parent = parent;
     }
 
+    public Integer getValue() {
+        return value;
+    }
+
+    public void setValue(Integer value) {
+        this.value = value;
+    }
+
     @Override
     public String toString() {
-        return "'" + name + "\'";// (parent= " + this.getParent() + ")  ";
+        return "" + name + "(" + this.value + ")  ";// (parent= " + this.getParent() + ")  ";
     }
 
     //        _____I_____
