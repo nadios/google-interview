@@ -61,7 +61,7 @@ public class BiTreeNode {
 
     @Override
     public String toString() {
-        return "'" + name + "\'   ";// (parent= " + this.getParent() + ")  ";
+        return "'" + name + "\'";// (parent= " + this.getParent() + ")  ";
     }
 
     //        _____I_____
