@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" name="Default" comment="Tasks 8.4 done">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_3.java" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_3.java" />
+    <list default="true" id="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_7.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408890330899" ignored="false" />
+    <file path="/Dummy.txt" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408900619535" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/misc.xml" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408525249773" ignored="false" />
     <file path="/Task8_5.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408819202580" ignored="false" />
     <file path="/Task1_1.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408528130727" ignored="false" />
@@ -56,6 +56,7 @@
     <file path="/Task8_2.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408882869910" ignored="false" />
     <file path="/Task8_3.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408900405955" ignored="false" />
     <file path="/Task8_4.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408889506408" ignored="false" />
+    <file path="/Task8_7.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408900741222" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,16 +125,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task8_3.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Task8_3.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="18" selection-start="1064" selection-end="1064" vertical-scroll-proportion="1.0537975">
+            <state line="28" column="18" selection-start="1064" selection-end="1064" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#273#282#0" expanded="true" />
                 <element signature="e#1207#1227#0" expanded="true" />
                 <element signature="e#1350#1359#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task8_7.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="47" selection-start="351" selection-end="351" vertical-scroll-proportion="0.53797466">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -185,7 +195,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch4/Task4_4.java" />
         <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch4/Task4_5.java" />
         <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch4/Task4_6.java" />
         <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch4/Task4_7.java" />
@@ -201,6 +210,7 @@
         <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_2.java" />
         <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_4.java" />
         <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_3.java" />
+        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_7.java" />
       </list>
     </option>
   </component>
@@ -688,7 +698,11 @@
       <created>1408890046567</created>
       <updated>1408890046567</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Tasks 8.3 done">
+      <created>1408900628450</created>
+      <updated>1408900628450</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -759,7 +773,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tasks 8.4 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tasks 8.3 done" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -789,6 +803,7 @@
     <MESSAGE value="Tasks 4.7 done" />
     <MESSAGE value="Tasks 4.8 done" />
     <MESSAGE value="Tasks 8.4 done" />
+    <MESSAGE value="Tasks 8.3 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -798,11 +813,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/utils/search/BiTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="83" selection-start="697" selection-end="697" vertical-scroll-proportion="0.56438357" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/utils/search/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="53" column="27" selection-start="960" selection-end="960" vertical-scroll-proportion="2.4684932" />
@@ -897,13 +907,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="18" selection-start="1064" selection-end="1064" vertical-scroll-proportion="1.0537975">
+        <state line="28" column="18" selection-start="1064" selection-end="1064" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#273#282#0" expanded="true" />
             <element signature="e#1207#1227#0" expanded="true" />
             <element signature="e#1350#1359#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="47" selection-start="351" selection-end="351" vertical-scroll-proportion="0.53797466">
+          <folding />
         </state>
       </provider>
     </entry>
