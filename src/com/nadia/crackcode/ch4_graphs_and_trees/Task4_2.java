@@ -1,4 +1,4 @@
-package com.nadia.crackcode.ch4;
+package com.nadia.crackcode.ch4_graphs_and_trees;
 
 import com.nadia.crackcode.utils.search.Graph;
 import com.nadia.crackcode.utils.search.Node;

@@ -1,4 +1,4 @@
-package com.nadia.crackcode.ch8;
+package com.nadia.crackcode.ch8_recursion;
 
 /**
  * Implement an algorithm to print all valid (e g , properly opened and closed) combinations of n-pairs of parentheses
@@ -9,7 +9,8 @@ package com.nadia.crackcode.ch8;
 public class Task8_5 {
 
     public static void main(String[] args) {
-        print_braces(3);
+//        print_braces(3);
+        printParentheses(0, 3, 3, new char[3 * 2]);
     }
 
     public static void print_braces(int count) {
@@ -26,9 +27,27 @@ public class Task8_5 {
             if (l > 0) {
                 str[count] = '(';
                 print_braces(l - 1, r, str, count + 1);
-            } if (r > l) {
+            }
+            if (r > l) {
                 str[count] = ')';
                 print_braces(l, r - 1, str, count + 1);
+            }
+        }
+    }
+
+
+    public static void printParentheses(int count, int l, int r, char[] buffer) {
+        if (l > r || l < 0) return;
+        if (r == 0 && l == 0) {
+            System.out.println(new String(buffer));
+        } else {
+            if (l > 0) {
+                buffer[count] = '(';
+                printParentheses(count + 1, l - 1, r, buffer);
+            }
+            if (r > l) {
+                buffer[count] = ')';
+                printParentheses(count + 1, l, r - 1, buffer);
             }
         }
     }

@@ -1,4 +1,4 @@
-package com.nadia.crackcode.ch3;
+package com.nadia.crackcode.ch3_stacks_and_queues;
 
 import com.nadia.crackcode.utils.lists.StackArray;
 

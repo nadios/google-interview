@@ -1,4 +1,4 @@
-package com.nadia.crackcode.ch2;
+package com.nadia.crackcode.ch2_linked_lists;
 
 import com.nadia.crackcode.utils.lists.LinkedList;
 import com.nadia.crackcode.utils.lists.LinkedNode;
