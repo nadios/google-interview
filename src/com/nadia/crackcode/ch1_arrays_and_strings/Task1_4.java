@@ -1,4 +1,4 @@
-package com.nadia.crackcode.ch1;
+package com.nadia.crackcode.ch1_arrays_and_strings;
 
 /**
  * Write a method to decide if two strings are anagrams or not

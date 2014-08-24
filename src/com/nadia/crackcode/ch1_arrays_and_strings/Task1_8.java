@@ -1,4 +1,4 @@
-package com.nadia.crackcode.ch1;
+package com.nadia.crackcode.ch1_arrays_and_strings;
 
 /**
  * Assume you have a method isSubstring which checks if one word is a substring of

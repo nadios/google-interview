@@ -1,4 +1,4 @@
-package com.nadia.crackcode.ch1;
+package com.nadia.crackcode.ch1_arrays_and_strings;
 
 /**
  * Write a method to replace all spaces in a string with ‘%20’

@@ -1,4 +1,4 @@
-package com.nadia.crackcode.ch1;
+package com.nadia.crackcode.ch1_arrays_and_strings;
 
 /**
  * Implement an algorithm to determine if a string has all unique characters What if

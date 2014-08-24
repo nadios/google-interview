@@ -1,4 +1,4 @@
-package com.nadia.crackcode.ch1;
+package com.nadia.crackcode.ch1_arrays_and_strings;
 
 /**
  * Given an image represented by an NxN matrix, where each pixel in the image is 4
