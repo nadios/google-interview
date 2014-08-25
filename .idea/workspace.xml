@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_5.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408969012204" ignored="false" />
+    <file path="/Dummy.txt" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408973251785" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/misc.xml" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408525249773" ignored="false" />
     <file path="/Task8_5.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408819202580" ignored="false" />
     <file path="/Task1_1.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408528130727" ignored="false" />
@@ -62,6 +62,7 @@
     <file path="/Task9_2.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408968512846" ignored="false" />
     <file path="/AnagramComparator.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408968327326" ignored="false" />
     <file path="/Task9_3.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408973133590" ignored="false" />
+    <file path="/Task9_5.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408978714389" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,10 +140,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task9_3.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Task9_3.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="64" selection-start="736" selection-end="798" vertical-scroll-proportion="0.33947772">
+            <state line="16" column="64" selection-start="736" selection-end="798" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task9_5.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="48" selection-start="1106" selection-end="1209" vertical-scroll-proportion="0.575">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.7.0_03/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1203" column="19" selection-start="46038" selection-end="46042" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -206,7 +225,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch7_ood/Task7_1.java" />
         <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch7_ood/task7_1_cards/Card.java" />
         <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch7_ood/task7_1_cards/Deck.java" />
         <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_1.java" />
@@ -222,6 +240,7 @@
         <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_2.java" />
         <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/task9_2/AnagramComparator.java" />
         <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_3.java" />
+        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_5.java" />
       </list>
     </option>
   </component>
@@ -412,29 +431,7 @@
       <recent name="com.nadia.crackcode.utils.search" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task9_3">
-    <configuration default="false" name="Task8_6" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.nadia.crackcode.ch8_recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.nadia.crackcode.ch8_recursion.Task8_6" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="google-interview" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Task9_5">
     <configuration default="false" name="Task8_7" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -523,6 +520,28 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="Task9_5" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.nadia.crackcode.ch9_sort_and_search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.nadia.crackcode.ch9_sort_and_search.Task9_5" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="google-interview" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -581,19 +600,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Task8_6" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Task8_7" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Task9_1" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Task9_2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Task9_3" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Task8_7" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Task9_1" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Task9_2" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Task9_3" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Task9_5" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Task9_3" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Task9_2" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Task9_1" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Task8_7" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Task8_6" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Task9_5" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Task9_3" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Task9_2" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Task9_1" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Task8_7" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -706,7 +725,11 @@
       <created>1408969016549</created>
       <updated>1408969016549</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Task 9.3 done">
+      <created>1408973255851</created>
+      <updated>1408973255851</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -727,7 +750,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24375" sideWeight="0.73268396" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.267316" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.267316" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -778,7 +801,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 9.2 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 9.3 done" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -811,6 +834,7 @@
     <MESSAGE value="Tasks 8.3 done" />
     <MESSAGE value="Tasks 8.6, 8.7, 9.1 done" />
     <MESSAGE value="Task 9.2 done" />
+    <MESSAGE value="Task 9.3 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -820,11 +844,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch7_ood/task7_1_cards/Card.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="18" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch7_ood/task7_1_cards/Deck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="28" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0" />
@@ -833,13 +852,6 @@
     <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="38" selection-start="214" selection-end="215" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_03/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1957" column="0" selection-start="77059" selection-end="77059" vertical-scroll-proportion="0.33211678">
           <folding />
         </state>
       </provider>
@@ -923,7 +935,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="64" selection-start="736" selection-end="798" vertical-scroll-proportion="0.33947772">
+        <state line="16" column="64" selection-start="736" selection-end="798" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_03/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1203" column="19" selection-start="46038" selection-end="46042" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="48" selection-start="1106" selection-end="1209" vertical-scroll-proportion="0.575">
           <folding />
         </state>
       </provider>
