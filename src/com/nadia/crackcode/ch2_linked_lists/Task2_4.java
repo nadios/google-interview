@@ -45,7 +45,7 @@ public class Task2_4 {
                 node2 = node2.getNext();
             }
             Integer value = value1 + value2 + div;
-            if (value > 10) {
+            if (value >= 10) {
                 div = (Integer) value / 10;
                 value = value % 10;
             } else {

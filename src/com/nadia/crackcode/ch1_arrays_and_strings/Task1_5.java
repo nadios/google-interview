@@ -6,10 +6,11 @@ package com.nadia.crackcode.ch1_arrays_and_strings;
 public class Task1_5 {
 
     public static void main(String[] args) {
-        replace_spaces("   aa aaa aa asada adasd adsda addas  ");
+        System.out.println("%20%20%20aa%20aaa%20aa%20asada%20adasd%20adsda%20addas%20%20"
+                .equals(replace_spaces("   aa aaa aa asada adasd adsda addas  ")));
     }
 
-    private static void replace_spaces(String s) {
+    private static String replace_spaces(String s) {
         char[] chars = s.toCharArray();
         int space_count = 0;
         for (char ch : chars) {
@@ -21,16 +22,18 @@ public class Task1_5 {
         int j = 0;
         for (int i = 0; i < chars.length; i++) {
             if (chars[i] == ' ') {
-                newChars[j] = '%';
-                newChars[j + 1] = '2';
-                newChars[j + 2] = '0';
-                j += 3;
+                newChars[j++] = '%';
+                newChars[j++] = '2';
+                newChars[j++] = '0';
+//                j += 3;
             } else {
-                newChars[j] = chars[i];
-                j++;
+                newChars[j++] = chars[i];
+//                j++;
             }
         }
-        System.out.println(new String(newChars));
+        String result = new String(newChars);
+        System.out.println(result);
+        return result;
     }
 
 }
