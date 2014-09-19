@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Work\IM\google-interview\src\com\nadia\crackcode\ch9_sort_and_search\task9_2\AnagramComparator.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nadia/crackcode/utils/search/BreadthFirstSearch.java" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/utils/search/BreadthFirstSearch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task1_parentheses.java" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task1_parentheses.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task2_DFS.java" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task2_DFS.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task3_tree_print_layers.java" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task3_tree_print_layers.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_4.java" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_4.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_5.java" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_5.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_2.java" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task3_max_sum.java" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task3_max_sum.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411118213695" ignored="false" />
+    <file path="/Dummy.txt" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411132324804" ignored="false" />
     <file path="/Task8_5.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411129124335" ignored="false" />
     <file path="/Task1_1.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411036898786" ignored="false" />
     <file path="/Task1_3.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408528974781" ignored="false" />
@@ -81,6 +73,7 @@
     <file path="/Task2_DFS.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411122306836" ignored="false" />
     <file path="/Task3_tree_print_layers.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411123527729" ignored="false" />
     <file path="/Task1_parentheses_again.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411123637764" ignored="false" />
+    <file path="/Task3_max_sum.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411138450717" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,10 +189,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task1_parentheses.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Task1_parentheses.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task1_parentheses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="54" selection-start="2400" selection-end="2400" vertical-scroll-proportion="0.4785276">
+            <state line="67" column="54" selection-start="2400" selection-end="2400" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task1_Deadlocks.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task1_Deadlocks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="13" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task2_roman2arabics.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task2_roman2arabics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="13" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task3_max_sum.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task3_max_sum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="47" selection-start="883" selection-end="883" vertical-scroll-proportion="0.81964284">
               <folding />
             </state>
           </provider>
@@ -223,7 +243,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch1_arrays_and_strings/Task1_5.java" />
         <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch1_arrays_and_strings/Task1_6.java" />
         <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch1_arrays_and_strings/Task1_8.java" />
         <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch2_linked_lists/Task2_4.java" />
@@ -239,6 +258,7 @@
         <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_4.java" />
         <option value="$PROJECT_DIR$/src/com/nadia/crackcode/utils/search/BreadthFirstSearch.java" />
         <option value="$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task1_parentheses.java" />
+        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task3_max_sum.java" />
       </list>
     </option>
   </component>
@@ -543,29 +563,7 @@
       <recent name="com.nadia.crackcode.utils.search" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task1_parentheses">
-    <configuration default="false" name="Task1_Deadlocks" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.nadia.crackcode.vira.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.nadia.crackcode.vira.Task1_Deadlocks" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="google-interview" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Task3_max_sum">
     <configuration default="false" name="Task2_DFS" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -654,6 +652,28 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="Task3_max_sum" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.nadia.crackcode.vira.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.nadia.crackcode.vira.Task3_max_sum" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="google-interview" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -712,19 +732,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Task1_Deadlocks" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Task2_DFS" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Task3_tree_print_layers" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Task8_5" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Task1_parentheses" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Task2_DFS" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Task3_tree_print_layers" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Task8_5" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Task1_parentheses" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Task3_max_sum" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Task1_parentheses" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Task8_5" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Task3_tree_print_layers" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Task2_DFS" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Task1_Deadlocks" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Task3_max_sum" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Task1_parentheses" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Task8_5" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Task3_tree_print_layers" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Task2_DFS" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -857,7 +877,11 @@
       <created>1411118215925</created>
       <updated>1411118215925</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Redo task to memorize algos">
+      <created>1411132330866</created>
+      <updated>1411132330866</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -868,7 +892,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26064736" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26623377" sideWeight="0.5296875" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36580086" sideWeight="0.2484375" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="CQ Node Properties" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.49791667" order="11" side_tool="false" content_ui="tabs" />
@@ -877,8 +901,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24270834" sideWeight="0.73376626" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26623377" sideWeight="0.46666667" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24270834" sideWeight="0.63419914" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36580086" sideWeight="0.74791664" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -929,7 +953,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Vira Task 1 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Redo task to memorize algos" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -942,7 +966,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="Chapter 1 + Linked list implementations and initial project structure" />
     <MESSAGE value="Task 2.1 done" />
     <MESSAGE value="Task 2.2 done" />
     <MESSAGE value="Task 2.3 done" />
@@ -967,6 +990,7 @@
     <MESSAGE value="Task 9.6 done" />
     <MESSAGE value="Review and refactor tasks of chapter1-2" />
     <MESSAGE value="Vira Task 1 done" />
+    <MESSAGE value="Redo task to memorize algos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -976,27 +1000,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch4_graphs_and_trees/Task4_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="50" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/utils/search/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/utils/sorting/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="82" selection-start="383" selection-end="383" vertical-scroll-proportion="-0.10429448">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/utils/search/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="46" column="0" selection-start="805" selection-end="932" vertical-scroll-proportion="0.15030675">
@@ -1085,7 +1088,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task1_parentheses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="54" selection-start="2400" selection-end="2400" vertical-scroll-proportion="0.4785276">
+        <state line="67" column="54" selection-start="2400" selection-end="2400" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task1_Deadlocks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task2_roman2arabics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task3_max_sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="47" selection-start="883" selection-end="883" vertical-scroll-proportion="0.81964284">
           <folding />
         </state>
       </provider>
