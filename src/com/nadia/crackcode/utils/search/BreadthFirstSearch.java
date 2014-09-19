@@ -1,6 +1,6 @@
 package com.nadia.crackcode.utils.search;
 
-import java.util.ArrayList;
+import java.util.LinkedList;
 
 /**
  * BFS algo
@@ -14,7 +14,7 @@ public class BreadthFirstSearch {
     }
 
     public static void search(TreeNode vertex) {
-        ArrayList queue = new ArrayList();
+        LinkedList queue = new LinkedList();
         queue.add(vertex);
 
         while (queue.size() > 0) {
@@ -30,11 +30,12 @@ public class BreadthFirstSearch {
     }
 
     public static void print_line(TreeNode vertex) {
-        ArrayList curLine = new ArrayList();
+        LinkedList curLine = new LinkedList();
         curLine.add(vertex);
 
         while (curLine.size() > 0) {
-            ArrayList nextLine = new ArrayList();
+            LinkedList nextLine = new LinkedList();
+
             for (int i = 0; i < curLine.size(); i++) {
                 TreeNode node = (TreeNode) curLine.get(i);
                 System.out.print(node);

@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" name="Default" comment="Task 9.6 done">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task1_Deadlocks.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task2_roman2arabics.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task3_max_sum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task4_OOD_service.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task4_most_freq_word.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task5_kth_smallest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task6_OOD_collect_data.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task7_deque.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task8_sort_100millions_strings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task9_ping_pong.java" />
+    <list default="true" id="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\Work\IM\google-interview\src\com\nadia\crackcode\ch9_sort_and_search\task9_2\AnagramComparator.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nadia/crackcode/utils/search/BreadthFirstSearch.java" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/utils/search/BreadthFirstSearch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task1_parentheses.java" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task1_parentheses.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task2_DFS.java" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task2_DFS.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task3_tree_print_layers.java" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task3_tree_print_layers.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_4.java" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_5.java" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_5.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_2.java" afterPath="$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_2.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="project.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411059130293" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/misc.xml" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408525249773" ignored="false" />
-    <file path="/Task8_5.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408819202580" ignored="false" />
-    <file path="/Task1_1.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408528130727" ignored="false" />
+    <file path="/Dummy.txt" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411118213695" ignored="false" />
+    <file path="/Task8_5.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411129124335" ignored="false" />
+    <file path="/Task1_1.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411036898786" ignored="false" />
     <file path="/Task1_3.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408528974781" ignored="false" />
     <file path="/Task1_4.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408533681388" ignored="false" />
-    <file path="/Task1_5.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408539843835" ignored="false" />
+    <file path="/Task1_5.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411042292140" ignored="false" />
     <file path="/Task1_6.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408543692963" ignored="false" />
     <file path="/Task1_7.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408545067162" ignored="false" />
     <file path="/Task1_8.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408545716358" ignored="false" />
@@ -30,7 +28,7 @@
     <file path="/Node.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408701652604" ignored="false" />
     <file path="/LinkedNode.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408557024741" ignored="false" />
     <file path="/Task2_1.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408559902891" ignored="false" />
-    <file path="/fragment.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408786350910" ignored="false" />
+    <file path="/fragment.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411132141080" ignored="false" />
     <file path="/Task2_2.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408561784779" ignored="false" />
     <file path="/Task2_3.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408569704750" ignored="false" />
     <file path="/Task2_4.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408609041551" ignored="false" />
@@ -41,7 +39,7 @@
     <file path="/Task3_1.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408619466516" ignored="false" />
     <file path="/MergeSort.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408631022055" ignored="false" />
     <file path="/Tree.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408643163360" ignored="false" />
-    <file path="/BreadthFirstSearch.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408648790055" ignored="false" />
+    <file path="/BreadthFirstSearch.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411130728255" ignored="false" />
     <file path="/DepthFirstSearch.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408647266282" ignored="false" />
     <file path="/TreeNode.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408644941946" ignored="false" />
     <file path="/DepthFirstSearch1.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408646827737" ignored="false" />
@@ -64,17 +62,25 @@
     <file path="/Point.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408882884128" ignored="false" />
     <file path="/Task8_2.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408882869910" ignored="false" />
     <file path="/Task8_3.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408900405955" ignored="false" />
-    <file path="/Task8_4.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408889506408" ignored="false" />
+    <file path="/Task8_4.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411130707574" ignored="false" />
     <file path="/Task8_7.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408963294927" ignored="false" />
     <file path="/Task8_6.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408961950480" ignored="false" />
     <file path="/Task9_1.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408966895891" ignored="false" />
-    <file path="/Task9_2.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408968512846" ignored="false" />
+    <file path="/Task9_2.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411127533379" ignored="false" />
     <file path="/AnagramComparator.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408968327326" ignored="false" />
     <file path="/Task9_3.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408973133590" ignored="false" />
     <file path="/Task9_5.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408978714389" ignored="false" />
     <file path="/Task9_6.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408987755334" ignored="false" />
     <file path="/Task9_7.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408989092104" ignored="false" />
-    <file path="/Task1_parentheses.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1408992776254" ignored="false" />
+    <file path="/Task1_parentheses.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411132125387" ignored="false" />
+    <file path="$PROJECT_DIR$/../../RBC/test_mercurial/mercurial_test/src/src/Test.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1409040509962" ignored="false" />
+    <file path="$PROJECT_DIR$/../../RBC/test_mercurial/mercurial_test1/src/src/Test.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1409044318329" ignored="false" />
+    <file path="/Test.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1409041902903" ignored="false" />
+    <file path="/.gitignore" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411117055315" ignored="false" />
+    <file path="/Task1_Deadlocks.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411118140668" ignored="false" />
+    <file path="/Task2_DFS.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411122306836" ignored="false" />
+    <file path="/Task3_tree_print_layers.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411123527729" ignored="false" />
+    <file path="/Task1_parentheses_again.java" changelist="ab2e7f5a-fca9-4a8d-a976-d7a714c62f15" time="1411123637764" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,10 +140,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Task1_Deadlocks.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task1_Deadlocks.java">
+      <file leaf-file-name="Task8_1.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="35" selection-start="1370" selection-end="1370" vertical-scroll-proportion="0.9287212">
+            <state line="5" column="13" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task8_4.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="0" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task8_3.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="13" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task9_2.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="18" selection-start="498" selection-end="498" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BreadthFirstSearch.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/utils/search/BreadthFirstSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="12" selection-start="970" selection-end="970" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task8_5.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="44" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task1_parentheses.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task1_parentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="67" column="54" selection-start="2400" selection-end="2400" vertical-scroll-proportion="0.4785276">
               <folding />
             </state>
           </provider>
@@ -161,30 +223,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_2.java" />
-        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/task9_2/AnagramComparator.java" />
-        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_3.java" />
-        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_5.java" />
-        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_6.java" />
-        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_7.java" />
-        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task1_parentheses.java" />
-        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task2_roman2arabics.java" />
-        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task3_max_sum.java" />
-        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task4_most_freq_word.java" />
-        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task5_kth_smallest.java" />
-        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task6_OOD_collect_data.java" />
-        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task7_deque.java" />
-        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task8_sort_100millions_strings.java" />
-        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task9_ping_pong.java" />
+        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch1_arrays_and_strings/Task1_5.java" />
+        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch1_arrays_and_strings/Task1_6.java" />
+        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch1_arrays_and_strings/Task1_8.java" />
+        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch2_linked_lists/Task2_4.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task1_Deadlocks.java" />
+        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task4_print_tree_by_line.java" />
+        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task4_print_tree_layers.java" />
+        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task2_DFS.java" />
+        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task3_tree_print_layers.java" />
+        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task1_parentheses_again.java" />
+        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_2.java" />
+        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_5.java" />
+        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_4.java" />
+        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/utils/search/BreadthFirstSearch.java" />
+        <option value="$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task1_parentheses.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -214,6 +276,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -229,7 +292,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
+              <option name="myItemId" value="google-interview" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -239,7 +302,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
+              <option name="myItemId" value="google-interview" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -261,7 +324,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
+              <option name="myItemId" value="google-interview" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -283,7 +346,125 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
+              <option name="myItemId" value="google-interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crackcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sorting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="google-interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="google-interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crackcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="google-interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="google-interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crackcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="google-interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="google-interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crackcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch9_sort_and_search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="google-interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="google-interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crackcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch8_recursion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="google-interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="google-interview" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -301,7 +482,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
+              <option name="myItemId" value="google-interview" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -313,47 +494,41 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ch1_arrays_and_strings" />
+              <option name="myItemId" value="ch4_graphs_and_trees" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="136" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="OverrideImplement.combined" value="false" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="154" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="158" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="appearance" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="160" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="832" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="840" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="153" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="147" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
-    <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
-    <property name="options.lastSelected" value="appearance" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="07cbc009-040f-4d77-abdf-0c7368f9c794">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -368,15 +543,15 @@
       <recent name="com.nadia.crackcode.utils.search" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task1_Deadlocks">
-    <configuration default="false" name="Task9_5" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.Task1_parentheses">
+    <configuration default="false" name="Task1_Deadlocks" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.nadia.crackcode.ch9_sort_and_search.*" />
+          <option name="PATTERN" value="com.nadia.crackcode.vira.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.nadia.crackcode.ch9_sort_and_search.Task9_5" />
+      <option name="MAIN_CLASS_NAME" value="com.nadia.crackcode.vira.Task1_Deadlocks" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -391,14 +566,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Task9_6" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="Task2_DFS" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.nadia.crackcode.ch9_sort_and_search.*" />
+          <option name="PATTERN" value="com.nadia.crackcode.victor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.nadia.crackcode.ch9_sort_and_search.Task9_6" />
+      <option name="MAIN_CLASS_NAME" value="com.nadia.crackcode.victor.Task2_DFS" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -413,14 +588,36 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Task8_7" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="Task3_tree_print_layers" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.nadia.crackcode.victor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.nadia.crackcode.victor.Task3_tree_print_layers" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="google-interview" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task8_5" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.nadia.crackcode.ch8_recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.nadia.crackcode.ch8_recursion.Task8_7" />
+      <option name="MAIN_CLASS_NAME" value="com.nadia.crackcode.ch8_recursion.Task8_5" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -443,28 +640,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.nadia.crackcode.victor.Task1_parentheses" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="google-interview" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Task1_Deadlocks" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.nadia.crackcode.vira.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.nadia.crackcode.vira.Task1_Deadlocks" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -537,19 +712,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Task9_5" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Task9_6" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Task8_7" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Task1_parentheses" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Task1_Deadlocks" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Task1_Deadlocks" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Task2_DFS" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Task3_tree_print_layers" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Task8_5" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Task1_parentheses" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Task1_Deadlocks" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Task1_parentheses" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Task8_7" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Task9_6" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Task9_5" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Task1_parentheses" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Task8_5" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Task3_tree_print_layers" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Task2_DFS" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Task1_Deadlocks" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -674,37 +849,45 @@
       <created>1408987821661</created>
       <updated>1408987821661</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Review and refactor tasks of chapter1-2">
+      <created>1411058813386</created>
+      <updated>1411058813386</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Vira Task 1 done">
+      <created>1411118215925</created>
+      <updated>1411118215925</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26064736" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26623377" sideWeight="0.5296875" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33901194" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32683983" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CQ Node Properties" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.49791667" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32683983" sideWeight="0.46875" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24318182" sideWeight="0.8568995" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14310052" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="CQ Node Properties" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24270834" sideWeight="0.73376626" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26623377" sideWeight="0.46666667" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -746,7 +929,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 9.6 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vira Task 1 done" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -782,6 +965,8 @@
     <MESSAGE value="Task 9.3 done" />
     <MESSAGE value="Task 9.5 done" />
     <MESSAGE value="Task 9.6 done" />
+    <MESSAGE value="Review and refactor tasks of chapter1-2" />
+    <MESSAGE value="Vira Task 1 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -791,114 +976,116 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/utils/search/BreadthFirstSearch.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch4_graphs_and_trees/Task4_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
+        <state line="33" column="50" selection-start="1200" selection-end="1200" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/utils/search/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/utils/sorting/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="82" selection-start="383" selection-end="383" vertical-scroll-proportion="-0.10429448">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/utils/search/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="0" selection-start="805" selection-end="932" vertical-scroll-proportion="0.15030675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="75" selection-start="1840" selection-end="1901" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="35" selection-start="989" selection-end="989" vertical-scroll-proportion="0.0">
+        <state line="14" column="13" selection-start="701" selection-end="701" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_03/src.zip!/java/util/LinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="798" column="26" selection-start="23679" selection-end="23690" vertical-scroll-proportion="0.37950137">
+        <state line="5" column="13" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task2_DFS.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="22" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
+        <state line="19" column="0" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task3_tree_print_layers.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="36" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0">
+        <state line="8" column="13" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task4_OOD_service.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch9_sort_and_search/Task9_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="29" selection-start="225" selection-end="225" vertical-scroll-proportion="0.0">
+        <state line="17" column="18" selection-start="498" selection-end="498" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/utils/search/BreadthFirstSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="12" selection-start="970" selection-end="970" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task4_most_freq_word.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/ch8_recursion/Task8_5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="92" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task5_kth_smallest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="51" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task6_OOD_collect_data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="56" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task7_deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="52" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task8_sort_100millions_strings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="35" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0">
+        <state line="13" column="44" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/victor/Task1_parentheses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="46" selection-start="694" selection-end="694" vertical-scroll-proportion="0.7572383">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task2_roman2arabics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="47" selection-start="86" selection-end="86" vertical-scroll-proportion="0.11358575">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task3_max_sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="103" selection-start="142" selection-end="142" vertical-scroll-proportion="0.11358575">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task9_ping_pong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="93" selection-start="132" selection-end="132" vertical-scroll-proportion="0.11358575">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nadia/crackcode/vira/Task1_Deadlocks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="35" selection-start="1370" selection-end="1370" vertical-scroll-proportion="0.9287212">
+        <state line="67" column="54" selection-start="2400" selection-end="2400" vertical-scroll-proportion="0.4785276">
           <folding />
         </state>
       </provider>
