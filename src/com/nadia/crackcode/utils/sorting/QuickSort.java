@@ -8,7 +8,6 @@ import java.util.List;
  */
 public class QuickSort {
     public static void main(String args[]) {
-        int[] arr = {9, 23, 5, 1, 6, 0, 2, 5, 7, 8, 3, 4};
         List<Integer> array = new ArrayList<Integer>();
         array.add(9);
         array.add(23);
