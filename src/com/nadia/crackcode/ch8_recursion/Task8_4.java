@@ -17,6 +17,7 @@ public class Task8_4 {
     public static ArrayList<String> permutations(String str) {
         int len = str.length();
         ArrayList<String> permutations = new ArrayList<String>();
+
         if (len <=1) {
             permutations.add(str);
         } else if (len > 2) {
