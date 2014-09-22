@@ -1,5 +1,7 @@
 package com.nadia.crackcode.vira;
 
+import com.nadia.crackcode.utils.sorting.QuickSort;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -23,8 +25,12 @@ public class Task5_kth_smallest {
         array.add(8);
         array.add(3);
         array.add(4);
+        array.add(1);
         printArray("INITIAL:", array);
-        System.out.println("PROCESSED: " + find_kth(array, 2));
+        for (int k = 0; k < array.size(); k++)
+            System.out.println("FIND k=" + k + " : " + find_kth(array, k));
+        QuickSort.sort(array);
+        printArray("QUICKSORTED:", array);
     }
 
     public static Integer find_kth(List list, int k) {
@@ -36,7 +42,10 @@ public class Task5_kth_smallest {
         if (start > end) return null;
         Integer value = (Integer) list.get(end);
         int partition = partition(list, value, start, end - 1);
-        if (k > partition) return quicksort(list, end - k, partition + 1, end);
+        if ((Integer) list.get(partition) < value) partition++;
+        swap(list, partition, end);
+        if (end - start <= k) return (Integer) list.get(k);
+        if (k > partition) return quicksort(list, k - partition, partition + 1, end);
         if (k < partition) return quicksort(list, k, start, partition - 1);
         return (Integer) list.get(partition);
     }

@@ -27,7 +27,7 @@ public class QuickSort {
         printArray("PROCESSED:", array);
     }
 
-    private static void sort(List array) {
+    public static void sort(List array) {
         quicksort(array, 0, array.size() - 1);
     }
 
