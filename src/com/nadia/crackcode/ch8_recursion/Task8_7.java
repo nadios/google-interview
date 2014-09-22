@@ -13,7 +13,7 @@ public class Task8_7 {
 
     }
 
-    public static int makeChange(int n, int denom) {
+    static int makeChange(int n, int denom) {
         int next_denom = 0;
         switch (denom) {
             case 25:

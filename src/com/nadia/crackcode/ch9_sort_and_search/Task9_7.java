@@ -1,6 +1,5 @@
 package com.nadia.crackcode.ch9_sort_and_search;
 
-import java.util.Collections;
 
 /**
  * A circus is designing a tower routine consisting of people standing atop one
@@ -22,4 +21,5 @@ public class Task9_7 {
 //        Collections.sort(people);
         return -1;
     }
+
 }

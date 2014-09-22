@@ -21,8 +21,6 @@ public class Task9_5 {
         while (j >= i) {
             int m = (j + i) / 2;
             int init_m=m;
-//            System.out.println("i="+i+",j="+j+",m="+m);
-//            System.out.println("1find m");
             m = findNext(str_arr, m, j);
             if (m > -1) {
                 if (x.compareTo(str_arr[m]) == 0) {
@@ -33,7 +31,6 @@ public class Task9_5 {
                     i = m + 1;
                 }
             } else {
-//                System.out.println("2find m");
                 m = findNext(str_arr, 0, init_m-1);
                 if (m > -1) j = init_m-1;
                 else return null;
@@ -43,10 +40,8 @@ public class Task9_5 {
     }
 
     public static Integer findNext(String[] str_arr, int i, int j) {
-//        System.out.println("searching next i="+i+",j="+j);
         for (int x = i; x <= j; x++) {
             if (str_arr[x] != "") {
-//                System.out.println("x="+x);
                 return x;
             }
         }
